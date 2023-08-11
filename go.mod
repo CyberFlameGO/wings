@@ -22,11 +22,10 @@ require (
 	github.com/docker/go-connections v0.4.0
 	github.com/fatih/color v1.12.0
 	github.com/franela/goblin v0.0.0-20200825194134-80c0062ed6cd
-	github.com/gabriel-vasile/mimetype v1.3.1
+	github.com/gabriel-vasile/mimetype v1.4.2
 	github.com/gammazero/workerpool v1.1.2
 	github.com/gbrlsnchs/jwt/v3 v3.0.1
-	github.com/gin-gonic/gin v1.7.2
-	github.com/go-playground/validator/v10 v10.8.0 // indirect
+	github.com/gin-gonic/gin v1.9.1
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.7.4 // indirect
@@ -40,7 +39,6 @@ require (
 	github.com/magefile/mage v1.11.0 // indirect
 	github.com/magiconair/properties v1.8.5
 	github.com/mattn/go-colorable v0.1.8
-	github.com/mattn/go-isatty v0.0.13 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/archiver/v3 v3.5.0
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
@@ -56,14 +54,13 @@ require (
 	github.com/prometheus/procfs v0.7.1 // indirect
 	github.com/sabhiram/go-gitignore v0.0.0-20201211210132-54b8a0bf510f
 	github.com/spf13/cobra v1.2.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.3
+	github.com/ugorji/go v1.1.7 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/net v0.0.0-20210726213435-c6fcb2dbf985 // indirect
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
+	golang.org/x/crypto v0.9.0
+	golang.org/x/sync v0.1.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
 	google.golang.org/genproto v0.0.0-20210729151513-df9385d47c1b // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
